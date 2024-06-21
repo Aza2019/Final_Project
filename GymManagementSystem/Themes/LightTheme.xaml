@@ -1,0 +1,60 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- <SolidColorBrush x:Key="PrimaryBackground" Color="#fff"></SolidColorBrush>
+ <SolidColorBrush x:Key="SecondaryBackground" Color="#B9E9FC"></SolidColorBrush>
+ 
+ <SolidColorBrush x:Key="PrimaryBorderColor" Color="#606784"></SolidColorBrush>
+
+ <SolidColorBrush x:Key="PrimaryTextColor" Color="#65647C"></SolidColorBrush>
+ <SolidColorBrush x:Key="SecondaryTextColor" Color="#272936"></SolidColorBrush>
+
+ <SolidColorBrush x:Key="PrimaryIconColor" Color="#02ACC3"></SolidColorBrush>
+
+ <SolidColorBrush x:Key="PrimaryTextBoxColor" Color="#B9E9FC"></SolidColorBrush>
+
+ <SolidColorBrush x:Key="PrimaryDialogBackground" Color="LightBlue"></SolidColorBrush>
+-->
+    <!--Specific for Packages Icons Color-->
+   <!-- <SolidColorBrush x:Key="PrimaryPackageIconColor" Color="#02ACC3"></SolidColorBrush>
+    -->
+    
+    <!--These are light and colorful-->
+
+    <!--<SolidColorBrush x:Key="PrimaryBackground" Color="#1E1E2C"></SolidColorBrush>
+<SolidColorBrush x:Key="SecondaryBackground" Color="#28293E"></SolidColorBrush>
+
+<SolidColorBrush x:Key="PrimaryBorderColor" Color="#4A4B5A"></SolidColorBrush>
+
+<SolidColorBrush x:Key="PrimaryTextColor" Color="#E0E0E0"></SolidColorBrush>
+<SolidColorBrush x:Key="SecondaryTextColor" Color="#A6A7B1"></SolidColorBrush>
+
+<SolidColorBrush x:Key="PrimaryIconColor" Color="#02ACC3"></SolidColorBrush>
+
+<SolidColorBrush x:Key="PrimaryTextBoxColor" Color="#3B3C50"></SolidColorBrush>
+
+<SolidColorBrush x:Key="PrimaryDialogBackground" Color="#3B3C50"></SolidColorBrush>-->
+
+    <!--Specific for Packages Icons Color-->
+    <!--<SolidColorBrush x:Key="PrimaryPackageIconColor" Color="#02ACC3"></SolidColorBrush>
+    -->
+
+
+    <SolidColorBrush x:Key="PrimaryBackground" Color="#FFFFFF"></SolidColorBrush>
+    <SolidColorBrush x:Key="SecondaryBackground" Color="#FFCDD2"></SolidColorBrush>
+
+    <SolidColorBrush x:Key="PrimaryBorderColor" Color="#FF7043"></SolidColorBrush>
+
+    <SolidColorBrush x:Key="PrimaryTextColor" Color="#311B92"></SolidColorBrush>
+    <SolidColorBrush x:Key="SecondaryTextColor" Color="#C2185B"></SolidColorBrush>
+
+    <SolidColorBrush x:Key="PrimaryIconColor" Color="#1E88E5"></SolidColorBrush>
+
+    <SolidColorBrush x:Key="PrimaryTextBoxColor" Color="#FFF59D"></SolidColorBrush>
+
+    <SolidColorBrush x:Key="PrimaryDialogBackground" Color="#81C784"></SolidColorBrush>
+
+    <!--Specific for Packages Icons Color-->
+    <SolidColorBrush x:Key="PrimaryPackageIconColor" Color="#8E24AA"></SolidColorBrush>
+
+</ResourceDictionary>
