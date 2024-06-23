@@ -48,60 +48,60 @@ namespace GymManagementSystem
                 this.WindowState = WindowState.Normal;
             this.DragMove();
         }
-        //private void rbPackages_Click(object sender, RoutedEventArgs e)
-        //{
-        //    PackagesPage packagesPage = new PackagesPage();
-        //    PageNavigator.Content = packagesPage;
-        //}
+        private void rbPackages_Click(object sender, RoutedEventArgs e)
+        {
+            //PackagesPage packagesPage = new PackagesPage();
+            //PageNavigator.Content = packagesPage;
+        }
 
-        //private void rbMembers_Click(object sender, RoutedEventArgs e)
-        //{
-        //    MembersPage membersPage = new MembersPage();
-        //    PageNavigator.Content = membersPage;
-        //}
+        private void rbMembers_Click(object sender, RoutedEventArgs e)
+        {
+            //MembersPage membersPage = new MembersPage();
+            //PageNavigator.Content = membersPage;
+        }
 
-        //private void rbInstructors_Click(object sender, RoutedEventArgs e)
-        //{
-        //    InstructorsPage instructorsPage = new InstructorsPage();
-        //    PageNavigator.Content = instructorsPage;
-        //}
+        private void rbInstructors_Click(object sender, RoutedEventArgs e)
+        {
+            //InstructorsPage instructorsPage = new InstructorsPage();
+            //PageNavigator.Content = instructorsPage;
+        }
 
-        //private void rbClients_Click(object sender, RoutedEventArgs e)
-        //{
-        //    ClientsPage clientsPage = new ClientsPage();
-        //    PageNavigator.Content = clientsPage;
-        //}
+        private void rbClients_Click(object sender, RoutedEventArgs e)
+        {
+            //ClientsPage clientsPage = new ClientsPage();
+            //PageNavigator.Content = clientsPage;
+        }
 
-        //private void rbPayments_Click(object sender, RoutedEventArgs e)
-        //{
-        //    PaymentsPage paymentsPage = new PaymentsPage();
-        //    PageNavigator.Content = paymentsPage;
-        //}
+        private void rbPayments_Click(object sender, RoutedEventArgs e)
+        {
+            //PaymentsPage paymentsPage = new PaymentsPage();
+            //PageNavigator.Content = paymentsPage;
+        }
 
-        //private void rbDashboard_Click(object sender, RoutedEventArgs e)
-        //{
-        //    DashboardPage dashboardPage = new DashboardPage();
-        //    PageNavigator.Content = dashboardPage;
-        //}
+        private void rbDashboard_Click(object sender, RoutedEventArgs e)
+        {
+            //DashboardPage dashboardPage = new DashboardPage();
+            //PageNavigator.Content = dashboardPage;
+        }
 
-        //private void rbAbout_Click(object sender, RoutedEventArgs e)
-        //{
-        //    AboutPage aboutPage = new AboutPage();
-        //    PageNavigator.Content = aboutPage;
-        //}
+        private void rbAbout_Click(object sender, RoutedEventArgs e)
+        {
+            //AboutPage aboutPage = new AboutPage();
+            //PageNavigator.Content = aboutPage;
+        }
 
 
 
-        //private void rbSessions_Click(object sender, RoutedEventArgs e)
-        //{
-        //    SessionsPage sessionsPage = new SessionsPage();
-        //    PageNavigator.Content = sessionsPage;
-        //}
+        private void rbSessions_Click(object sender, RoutedEventArgs e)
+        {
+            //SessionsPage sessionsPage = new SessionsPage();
+            //PageNavigator.Content = sessionsPage;
+        }
 
-        //private void rbAttendance_Click(object sender, RoutedEventArgs e)
-        //{
-        //    AttendancePage attendancePage = new AttendancePage();
-        //    PageNavigator.Content = attendancePage;
-        //}
+        private void rbAttendance_Click(object sender, RoutedEventArgs e)
+        {
+            //AttendancePage attendancePage = new AttendancePage();
+            //PageNavigator.Content = attendancePage;
+        }
     }
 }

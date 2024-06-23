@@ -293,11 +293,11 @@
             <Setter.Value>
                 <ControlTemplate TargetType="{x:Type Button}">
                     
-                    <Border x:Name="B" Background="#4AA951" Padding="7 0">
+                    <Border x:Name="B" Background="#1E88E5" Padding="7 0">
                         <Label FontSize="16"
                                FontFamily="Cascadia Mono"
                                FontWeight="SemiBold"
-                               Foreground="#FFF"
+                               Foreground="Black"
                                VerticalAlignment="Center"
                                HorizontalAlignment="Center"
                                Content="{TemplateBinding Content}"/>

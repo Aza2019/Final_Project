@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\vince\source\repos\GymManagementSystem\GymManagementSystem\App.xaml
-7560616810
+7141057515
 
-51579654133
-161878863132
-MainWindow.xaml;Styles\ButtonStyles.xaml;Styles\ComboBoxStyles.xaml;Styles\DatePickerStyles.xaml;Styles\Icons\Icons.xaml;Themes\DarkTheme.xaml;Themes\LightTheme.xaml;
+6894174625
+23-2118284552
+MainWindow.xaml;Pages\PackagesPage.xaml;Styles\ButtonStyles.xaml;Styles\DatePickerStyles.xaml;Styles\Icons\Icons.xaml;Themes\DarkTheme.xaml;Themes\LightTheme.xaml;
 
-True
+False
 
